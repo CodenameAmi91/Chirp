@@ -1,28 +1,41 @@
 
-# Welcome to Codewell! 👋
+# Chirp Twitter Analytic mockup
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects.
+> Outline a brief description of your project.
+> Live demo [_here_](https://codenameami91.github.io/Chirp/). 
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
 
-## I've completed the challenge, now what?
 
-We recommend using one of these two websites to deploy your projects
+## General Information
+- This is a responsive one page twitter analytic page using Bootstrap to practice layouts, flex/grid and scrollable components.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
 
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+## Technologies Used
+- HTML - version 5.0
+- Bootstrap- version 4.0
 
-### Submit your solution to Codewell
 
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
+## Project Status
+Project is:  _complete_ 
 
-### Join our community on Slack
 
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ).
+## Room for Improvement
 
-### Fonts Used
+Room for improvement:
+- Definately the layout of the header page on larger screens
 
-<https://fonts.google.com/specimen/Inter>
+
+
+## Acknowledgements
+
+- This project was inspired by Codewell which you can browse high quality Figma templates that you can use to sharpen your HTML and CSS skills!
+- You can find this project on [Codewell](https://www.codewell.cc/challenges/chirp-landing-page--60fc1e36a383e41090a3c71c).
+
+
+
